@@ -80,7 +80,7 @@ var useranswer = readlineSync.question(question);
 var questions = [
   {
   question: `
-  1.Where was Gol D. Roger born?
+  1. Where was Gol D. Roger born?
    a: North-Blue
    b: South-Blue
    c: East-Blue
@@ -88,7 +88,7 @@ var questions = [
   answer  :  "c"
 }, {
   question:`
-  2.Who is Luffy's first main opponent?
+  2. Who is Luffy's first main opponent?
   a: Buggy
   b: Captain Kuro
   c: Alvida
@@ -96,7 +96,7 @@ var questions = [
   answer  :  "c"
 }, {
   question:`
-  3.What is the name of the zombie that Moria let possess Brooke's shadow in the Thriller Bark Arc? "
+  3. What is the name of the zombie that Moria let possess Brooke's shadow in the Thriller Bark Arc? "
   a: Inuppe
   b: Ryuma
   c: Kumashi
@@ -104,7 +104,7 @@ var questions = [
   answer  :  "b"
 }, {
   question: `
-  4.What is Luffy's idol's name?
+  4. What is Luffy's idol's name?
   a: Gol D. Roger
   b: Ivanka
   c: ACE
@@ -112,7 +112,7 @@ var questions = [
   answer  :  "d"
 }, {
   question: `
-  5.What name does Luffy uses to enter the Colosseum in Dressrosa ?
+  5. What name does Luffy uses to enter the Colosseum in Dressrosa ?
   a: Fluffy
   b: Lucy 
   c: Puffy
@@ -120,7 +120,7 @@ var questions = [
   answer  :  "b"
 }, {
   question:`
-  6.From which type of wood did Franky make Thousand Sunny?
+  6. From which type of wood did Franky make Thousand Sunny?
   a: Pitch Pine
   b: Ohara(Tree of Knowledge) 
   c: Kuuigosu
@@ -128,7 +128,7 @@ var questions = [
   answer  :  "d"
 }, {
   question: `
-  7.What was the first part of his body that Luffy stretched?
+  7. What was the first part of his body that Luffy stretched?
   a: Left arm
   b: Legs
   c: Right cheek
@@ -136,7 +136,7 @@ var questions = [
   answer  :  "a"
 },{
   question: `
-  8.What was used as a weapon by Cabaji while fighting Zoro?
+  8. What was used as a weapon by Cabaji while fighting Zoro?
   a: Whip
   b: Rubber Bands
   c: Water Gun
@@ -144,7 +144,7 @@ var questions = [
   answer  :  "d"
 },{
   question: `
-  9.What was the bounty of the mountain bandit that entered Makino's bar and threatened Shanks?
+  9. What was the bounty of the mountain bandit that entered Makino's bar and threatened Shanks?
   a: 18.000.000 Beli
   b: 80.000 Beli
   c: 1.800.000 Beli
@@ -152,7 +152,7 @@ var questions = [
   answer  :  "d"
 },{
   question: `
-  10.In Syrup Village, what was Onion's weapon of choice?
+  10. In Syrup Village, what was Onion's weapon of choice?
   a: Slingshot
   b: Shovel
   c: Shotgun
@@ -160,7 +160,7 @@ var questions = [
   answer  :  "b"
 },{
   question: `
-  11.Which event was triggered by mistake?
+  11. Which event was triggered by mistake?
   a: Buster call on Enies Lobby
   b: Execution of Gol D. Roger
   c: Buster call on Ohara
@@ -168,7 +168,7 @@ var questions = [
   answer  :  "a"
 },{
   question: `
-  12.Instead of Nico Robin, all that Aokiji took with him from Water 7 was...
+  12. Instead of Nico Robin, all that Aokiji took with him from Water 7 was...
   a: A pet hamster
   b: A shish Kebab
   c: The plan for an ancient wepon
@@ -176,7 +176,7 @@ var questions = [
   answer  :  "b"
 },{
   question: `
-  13.Which Channel of the Thousand Sunny's Soldier Dock System contains the Mini Merry II?
+  13. Which Channel of the Thousand Sunny's Soldier Dock System contains the Mini Merry II?
   a: 4
   b: 3
   c: 2
@@ -184,7 +184,7 @@ var questions = [
   answer  :  "c"
 },{
   question: `
-  14.Who held the key to Robin's sea stone handcuffs?
+  14. Who held the key to Robin's sea stone handcuffs?
   a: Lucci
   b: Blueno
   c: kaku
@@ -192,7 +192,7 @@ var questions = [
   answer  :  "c"
 },{
   question: `
-  15.How many bottles of cola were consumed by Franky's strongest Coup de Vent?
+  15. How many bottles of cola were consumed by Franky's strongest Coup de Vent?
   a: 2
   b: 1
   c: 1.5

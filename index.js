@@ -32,7 +32,7 @@ var highScore = [
   },
   {
     name : "Varsha",
-    score: 0
+    score: 6
   },
   {
     name : "empty",

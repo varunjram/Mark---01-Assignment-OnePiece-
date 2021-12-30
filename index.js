@@ -28,10 +28,10 @@ var highScore = [
   },
   {
     name : "Puttu",
-    score: 10
+    score: 8
   },
   {
-    name : "empty",
+    name : "Varsha",
     score: 0
   },
   {
